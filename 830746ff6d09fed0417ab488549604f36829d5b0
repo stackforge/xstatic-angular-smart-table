@@ -1,0 +1,10 @@
+Code-Review+2: Richard Jones <r1chardj0n3s@gmail.com>
+Code-Review+2: Travis Tripp <travis.tripp@hpe.com>
+Code-Review+2: David Lyle <dklyle0@gmail.com>
+Workflow+1: David Lyle <dklyle0@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 14 Jul 2016 23:56:01 +0000
+Reviewed-on: https://review.openstack.org/314585
+Project: openstack/xstatic-angular-smart-table
+Branch: refs/heads/master
