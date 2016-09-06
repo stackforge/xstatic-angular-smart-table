@@ -1,0 +1,9 @@
+Code-Review+2: Rob Cresswell <robert.cresswell@outlook.com>
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Workflow+1: Radomir Dopieralski <openstack@sheep.art.pl>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 06 Sep 2016 09:05:11 +0000
+Reviewed-on: https://review.openstack.org/365882
+Project: openstack/xstatic-angular-smart-table
+Branch: refs/heads/master
